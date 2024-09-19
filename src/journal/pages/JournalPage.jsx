@@ -1,5 +1,5 @@
 import React from 'react'
-import { JournalLayout } from '../layout/Journallayout'
+import { JournalLayout } from '../layout/JournalLayout'
 import { NothingSelectedView } from '../views/NothingSelectedView'
 import { NoteView } from '../views/NoteView'
 import { IconButton } from '@mui/material'
