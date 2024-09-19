@@ -25,8 +25,6 @@ const firebaseConfig = {
   appId: VITE_APPID
 };
 
-console.log(firebaseConfig)
-
 //for TESTING environment
 // const firebaseConfig = {
 //   apiKey: "AIzaSyD7Dhar4ofvHYNlQxwOT9TAEGm_PHn4Viw",
